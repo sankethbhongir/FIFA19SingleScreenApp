@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="app_name">FIFA 19</string>
+    <string name="Active_touch_info"> This new system fundamentally changes the way you receive and strike the ball, enabling closer control, improved fluidity in movement, more creativity, and increased player personality when. First touch gets an overhaul with new tools such as the disguised touch, flick-up volleys, or even skill specific animations like the Neymar Trap, so that you can stay one touch ahead of your opponent and create scoring chances. </string>
+    <string name="features">features</string>
+    <string name="active_touch_system">Active Touch System</string>
+    <string name="sponsor">sponsor</string>
+    <string name="real_player_motion">Real Player Motion \n Technology</string>
+    <string name="real_player_motion_info">The game-changing animation system, which brought enhanced player personality and movement fidelity to EA SPORTS FIFA, is back with increased coverage of the entire pitch. Enhanced animations for tactical shielding, impact balancing, and physical jostling take realistic player movement, responsiveness, and personality to unbelievable heights.</string>
+    <string name="pre_order">Pre Order Now</string>
+    <string name="about">About</string>
+    <string name="aboutInfo">There\'s no higher level in club football than the UEFA Champions League. Dreams are achieved and legends are made in this historic tournament that showcases the best clubs in the world. FIFA 19 for the PlayStation 4, Xbox One, PC and Nintendo Switch is infused with the UEFA Champions League.</string>
+    <string name="available_on">Available on</string>
+    <string name="site">Official Stie: https://www.easports.com/fifa</string>
+    <string name="publisher_ea_sports">Publisher: EA SPORTS</string>
+
+</resources>
